@@ -1,0 +1,29 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+select,
+.select {
+    width: 100%;
+}
+
+span[role=img],
+th {
+    cursor: pointer;
+}
+
+
+.column1{
+    width: 80%;
+}
+div.column2{
+    width: 20%;
+    margin-top: 30px;
+    padding-right: 20px;
+}
